@@ -1,2 +1,2 @@
 #!/bin/bash
-cd '/name of directory' 'or file'
+cd /root
